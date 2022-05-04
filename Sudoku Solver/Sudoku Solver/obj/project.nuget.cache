@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "93wHc5z5nFdC4p2P2SoqVk1rQIxfC0actrhi27N2uQB1blonlMCazrQ7H62j3GMbxA1a3O9JPsew6O1Hr3uSMg==",
+  "dgSpecHash": "qhuMK5B42KDhIg+JhnN9FliFzYFXIBNia/Gue8J6xbBYSEAhIL2D/vKr3NOOXBWKAHktgtKvqOrywCO8jJxWZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Documents\\Visual Studio 2022\\Projects\\SudokuSolver\\Sudoku Solver\\Sudoku Solver\\Sudoku Solver.csproj",
+  "projectFilePath": "C:\\Users\\arcan\\Documents\\Visual Studio 2019\\Projects\\Sudoku Solver\\SudokuSolver\\Sudoku Solver\\Sudoku Solver\\Sudoku Solver.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
